@@ -7,6 +7,10 @@
  @author: mmarcusx@gmail.com
 ###
 
+http://www.hindawi.com/journals/mpe/2013/419372/
+http://labraj.feri.um.si/images/c/cd/Janez_cec06.pdf
+http://web.mysites.ntu.edu.sg/epnsugan/PublicSite/Shared%20Documents/CEC-2006/Brest-Zumer.pdf
+
 ###
 	classes
 ###
